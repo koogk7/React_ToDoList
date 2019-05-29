@@ -122,3 +122,6 @@ class TodoItem extends Component {
 + 클래스 네임을 동적할당 하기 위해 **템플릿 리터럴**를 사용하였다.
 
 
+## Reference
+- https://velopert.com/3480
+

@@ -1,6 +1,6 @@
 # React Tutorial - To Do List Demo
 
-### Envirment
+### Environment
   - react : 16.8.3
   - yarn  : 1.12.3
 
